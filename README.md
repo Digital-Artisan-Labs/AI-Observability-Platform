@@ -229,5 +229,5 @@ This project is licensed under the Apache 2.0 License - see the `LICENSE` file f
 ---
 
 <p align="center">
-  Built with ❤️ · <a href="https://observo.panditaman.com">observo.panditaman.com</a>
+  Built with ❤️ · <a href="https://panditaman.com">Pandit Aman</a>
 </p>
