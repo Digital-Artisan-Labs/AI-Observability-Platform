@@ -222,12 +222,6 @@ Observo's API is fully documented via OpenAPI. Once logged in, you can view the 
 
 ---
 
-## 📄 License
-
-This project is licensed under the Apache 2.0 License - see the `LICENSE` file for details.
-
----
-
 <p align="center">
   Built with ❤️ · <a href="https://panditaman.com">Pandit Aman</a>
 </p>
